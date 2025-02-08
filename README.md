@@ -1,0 +1,1 @@
+This repo contains a common React bug related to the useEffect hook and its dependency array. The bug causes an infinite loop, and the solution demonstrates how to fix it.
